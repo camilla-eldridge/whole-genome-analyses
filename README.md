@@ -1,1 +1,1 @@
-# whole-genome-anlayses
+# whole-genome-analyses
